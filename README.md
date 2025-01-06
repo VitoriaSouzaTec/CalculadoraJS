@@ -1,0 +1,1 @@
+#CALCULADORA FEITA EM JAVASCRIPT SEGUINDO O TUTORIAL https://www.youtube.com/watch?v=I5kj-YsmWjM&t=38s
